@@ -1,5 +1,5 @@
 ## CRUD MVC
-Projeto desenvolvido no curso PHP 1, introduzindos os conceitos de MVC - _model_, _view_ e _controller_.
+Projeto desenvolvido no curso PHP 1, introduzindo os conceitos de MVC - _model_, _view_ e _controller_.
 
 ### Instalação
 Você pode clonar este repositório OU baixar o .zip
