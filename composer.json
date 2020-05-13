@@ -1,0 +1,21 @@
+{
+  "description": "CRUD MVC",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Davi Silva",
+      "email": "dasilvaphoto@gmail.com",
+      "homepage": "https://github.com/davi1985",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "clancats/hydrahon": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "core\\": "core/",
+      "src\\": "src/"
+    }
+  }
+}
